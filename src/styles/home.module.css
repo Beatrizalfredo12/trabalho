@@ -1,0 +1,23 @@
+
+#main{
+    width: 96%;
+    min-height: 500px;
+    padding: 0 2% 0 2%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#main a{
+    /* color: white; */
+    text-decoration: none;
+    
+}
+
+.links{
+    background-color: rgb(167, 179, 179);
+    width: auto;
+    height: auto;
+    padding: 15px;
+    margin-bottom: 2vw;
+}
+

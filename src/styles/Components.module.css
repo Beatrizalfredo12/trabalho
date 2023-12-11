@@ -1,0 +1,26 @@
+.footer {
+    background-color: #000;
+    color: #fff;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar {
+    background-color: #000;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar a {
+    color: #ffffff;
+    margin-left: 1em;
+    text-decoration: none;
+    transition: .3s;
+}
+
+.navbar a:hover {
+    color: #999
+}
